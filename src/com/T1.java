@@ -2,6 +2,6 @@ package com;
 
 public class T1 {
 	public static void main(String[] args) {
-		System.out.println("woshigx1");
+		System.out.println("woshigx222");
 	}
 }
